@@ -1,4 +1,4 @@
-# Welcome to BionicTechBD's GitHub Profile 👋
+# Welcome to BionicTechBD
 
 ## About Us
 At **BionicTechBD**, we are passionate about developing innovative software solutions and open-source tools to make technology accessible for everyone. Our focus areas include web development, software packages, and seamless integrations.
